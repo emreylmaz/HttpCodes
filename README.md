@@ -1,6 +1,10 @@
 # Laravel RESTful API example 
 
 A simple example RESTful API in Laravel 8.
+## RUN
+composer install 
+php artisan migrate
+php artisan db:seed
 
 ## Future 
 Improvements can be made in the future, such as adding middleware.
